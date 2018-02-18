@@ -1,1 +1,1 @@
-# Artificial_Intelligence_Lerning
+# Artificial_Intelligence_Learning
