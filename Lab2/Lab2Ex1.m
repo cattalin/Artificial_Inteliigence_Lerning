@@ -13,7 +13,6 @@ mult_antrenare = genereazaMultimeAntrenare(c, 20);
 
 function multimeAntrenare = genereazaMultimeAntrenare2(c, nr)
 X = rand(1, nr)*4*c;
-X
 x = 1:4*c;
 n = @(x) (x)./(x+c);
 
